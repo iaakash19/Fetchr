@@ -6,3 +6,8 @@ input {
 .ui-datatable .ui-column-filter {
     font-size: 0.75rem;
 }
+
+h3 {
+        font-family: verdana;
+    font-size: 1.5rem;
+}
